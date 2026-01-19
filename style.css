@@ -1,0 +1,51 @@
+body {
+    font-family: monospace;
+    background: #fdf7f2;
+    padding: 40px;
+}
+
+h2 {
+    color: #7a3e1d;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background: #c56a28;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+}
+
+th {
+    background: #c56a28;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+input, select, button {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 300px;
+}
+
+button {
+    background: #7a3e1d;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
